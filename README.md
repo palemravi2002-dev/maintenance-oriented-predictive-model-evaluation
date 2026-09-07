@@ -100,12 +100,6 @@ All 10 tests passed successfully:
 - **Application:** Streamlit
 - **IDE:** Jupyter Notebook, PyCharm
 
-## Author
-
-**Palem Ravi**
-MSc Computing Research Project — Sheffield Hallam University
-Supervisor: Jimenez Rodriguez, Alejandro
-
 ## License
 
 This project is submitted for academic purposes. The AI4I 2020 dataset is publicly available on Kaggle.
